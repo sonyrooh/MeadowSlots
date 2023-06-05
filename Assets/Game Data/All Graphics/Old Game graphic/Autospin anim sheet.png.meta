@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: cef6843d692a7c64bb77d4407b7c3a4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Autospin anim sheet_0
+  - first:
+      213: 21300002
+    second: Autospin anim sheet_1
+  - first:
+      213: 21300004
+    second: Autospin anim sheet_2
+  - first:
+      213: 21300006
+    second: Autospin anim sheet_3
+  - first:
+      213: 21300008
+    second: Autospin anim sheet_4
+  - first:
+      213: 21300010
+    second: Autospin anim sheet_5
+  - first:
+      213: 21300012
+    second: Autospin anim sheet_6
+  - first:
+      213: 21300014
+    second: Autospin anim sheet_7
+  - first:
+      213: 21300016
+    second: Autospin anim sheet_8
+  - first:
+      213: 21300018
+    second: Autospin anim sheet_9
+  - first:
+      213: 21300020
+    second: Autospin anim sheet_10
+  - first:
+      213: 21300022
+    second: Autospin anim sheet_11
+  - first:
+      213: 21300024
+    second: Autospin anim sheet_12
+  - first:
+      213: 21300026
+    second: Autospin anim sheet_13
+  - first:
+      213: 21300028
+    second: Autospin anim sheet_14
+  - first:
+      213: 21300030
+    second: Autospin anim sheet_15
+  - first:
+      213: 21300032
+    second: Autospin anim sheet_16
+  - first:
+      213: 21300034
+    second: Autospin anim sheet_17
+  - first:
+      213: 21300036
+    second: Autospin anim sheet_18
+  - first:
+      213: 21300038
+    second: Autospin anim sheet_19
+  - first:
+      213: 21300040
+    second: Autospin anim sheet_20
+  - first:
+      213: 21300042
+    second: Autospin anim sheet_21
+  - first:
+      213: 21300044
+    second: Autospin anim sheet_22
+  - first:
+      213: 21300046
+    second: Autospin anim sheet_23
+  - first:
+      213: 21300048
+    second: Autospin anim sheet_24
+  - first:
+      213: 21300050
+    second: Autospin anim sheet_25
+  - first:
+      213: 21300052
+    second: Autospin anim sheet_26
+  - first:
+      213: 21300054
+    second: Autospin anim sheet_27
+  - first:
+      213: 21300056
+    second: Autospin anim sheet_28
+  - first:
+      213: 21300058
+    second: Autospin anim sheet_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Autospin anim sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8923932cdad874ba48d4b082b70f2c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c579ad5e5711859408800c4d8f32a1ea
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191337aaab7d2746a1adfc5ef3e06e1
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930b5b0c6f3aceb46bb0cf239db9287c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1091f0cd6e93e546be113872995bfdb
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99da247a6035a4845b4430dd115c1bb0
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d855fe77be3513149be75f9c2088e737
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beafc7abbd70048409925a113ea79f11
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d4f838922bf6548a1fc20271bf0961
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e004b3bf162eb0d4e8e02a8997338099
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef51d74670181a74eba656d8098644db
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd38a8ca352a5d48b7542366616f7b9
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a7df0283cd24746a9322e6227e4dbc
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a3e1db0bb5044bb5596d5e214c011
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 804
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcfd2678e427c842a6129a89e057d84
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fa1148b6f254b4ab35ec971e1db035
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb00591d7f0eb274dbf8b206eca0640f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf664deaea47349ae24d212f6c2d73
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_18
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278584876d1c8394e83559dd5310cc86
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641ddd7f70609c94799f2d44d1207b13
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faed5394b1308ae4fa172a5da5508b8a
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c669072968e3f498744d142a0b5d9e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee3bd9a60d2bae409283f6f6045bf26
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f11b227a9297f343b0dd47943591289
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80a37668e0da7445a17e9a09278bed9
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40584842f83fc345b170b5cac977490
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015c9c0607f3fc04e94f31f06b63dc26
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e864da8d2958c4ab61433e78b16786
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce993e884eba02a48bad9952893b6543
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autospin anim sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 0
+        width: 273.06668
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a2c63d60aedf6429b252727040f1c7
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f8b5cc15681b49f4f9c07665d0d8d4f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

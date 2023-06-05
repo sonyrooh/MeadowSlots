@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: fdeede61b149f874db691face8dea82d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Glow-portal-Contact-sheet (2)_0
+  - first:
+      213: 21300002
+    second: Glow-portal-Contact-sheet (2)_1
+  - first:
+      213: 21300004
+    second: Glow-portal-Contact-sheet (2)_2
+  - first:
+      213: 21300006
+    second: Glow-portal-Contact-sheet (2)_3
+  - first:
+      213: 21300008
+    second: Glow-portal-Contact-sheet (2)_4
+  - first:
+      213: 21300010
+    second: Glow-portal-Contact-sheet (2)_5
+  - first:
+      213: 21300012
+    second: Glow-portal-Contact-sheet (2)_6
+  - first:
+      213: 21300014
+    second: Glow-portal-Contact-sheet (2)_7
+  - first:
+      213: 21300016
+    second: Glow-portal-Contact-sheet (2)_8
+  - first:
+      213: 21300018
+    second: Glow-portal-Contact-sheet (2)_9
+  - first:
+      213: 21300020
+    second: Glow-portal-Contact-sheet (2)_10
+  - first:
+      213: 21300022
+    second: Glow-portal-Contact-sheet (2)_11
+  - first:
+      213: 21300024
+    second: Glow-portal-Contact-sheet (2)_12
+  - first:
+      213: 21300026
+    second: Glow-portal-Contact-sheet (2)_13
+  - first:
+      213: 21300028
+    second: Glow-portal-Contact-sheet (2)_14
+  - first:
+      213: 21300030
+    second: Glow-portal-Contact-sheet (2)_15
+  - first:
+      213: 21300032
+    second: Glow-portal-Contact-sheet (2)_16
+  - first:
+      213: 21300034
+    second: Glow-portal-Contact-sheet (2)_17
+  - first:
+      213: 21300036
+    second: Glow-portal-Contact-sheet (2)_18
+  - first:
+      213: 21300038
+    second: Glow-portal-Contact-sheet (2)_19
+  - first:
+      213: 21300040
+    second: Glow-portal-Contact-sheet (2)_20
+  - first:
+      213: 21300042
+    second: Glow-portal-Contact-sheet (2)_21
+  - first:
+      213: 21300044
+    second: Glow-portal-Contact-sheet (2)_22
+  - first:
+      213: 21300046
+    second: Glow-portal-Contact-sheet (2)_23
+  - first:
+      213: 21300048
+    second: Glow-portal-Contact-sheet (2)_24
+  - first:
+      213: 21300050
+    second: Glow-portal-Contact-sheet (2)_25
+  - first:
+      213: 21300052
+    second: Glow-portal-Contact-sheet (2)_26
+  - first:
+      213: 21300054
+    second: Glow-portal-Contact-sheet (2)_27
+  - first:
+      213: 21300056
+    second: Glow-portal-Contact-sheet (2)_28
+  - first:
+      213: 21300058
+    second: Glow-portal-Contact-sheet (2)_29
+  - first:
+      213: 21300060
+    second: Glow-portal-Contact-sheet (2)_30
+  - first:
+      213: 21300062
+    second: Glow-portal-Contact-sheet (2)_31
+  - first:
+      213: 21300064
+    second: Glow-portal-Contact-sheet (2)_32
+  - first:
+      213: 21300066
+    second: Glow-portal-Contact-sheet (2)_33
+  - first:
+      213: 21300068
+    second: Glow-portal-Contact-sheet (2)_34
+  - first:
+      213: 21300070
+    second: Glow-portal-Contact-sheet (2)_35
+  - first:
+      213: 21300072
+    second: Glow-portal-Contact-sheet (2)_36
+  - first:
+      213: 21300074
+    second: Glow-portal-Contact-sheet (2)_37
+  - first:
+      213: 21300076
+    second: Glow-portal-Contact-sheet (2)_38
+  - first:
+      213: 21300078
+    second: Glow-portal-Contact-sheet (2)_39
+  - first:
+      213: 21300080
+    second: Glow-portal-Contact-sheet (2)_40
+  - first:
+      213: 21300082
+    second: Glow-portal-Contact-sheet (2)_41
+  - first:
+      213: 21300084
+    second: Glow-portal-Contact-sheet (2)_42
+  - first:
+      213: 21300086
+    second: Glow-portal-Contact-sheet (2)_43
+  - first:
+      213: 21300088
+    second: Glow-portal-Contact-sheet (2)_44
+  - first:
+      213: 21300090
+    second: Glow-portal-Contact-sheet (2)_45
+  - first:
+      213: 21300092
+    second: Glow-portal-Contact-sheet (2)_46
+  - first:
+      213: 21300094
+    second: Glow-portal-Contact-sheet (2)_47
+  - first:
+      213: 21300096
+    second: Glow-portal-Contact-sheet (2)_48
+  - first:
+      213: 21300098
+    second: Glow-portal-Contact-sheet (2)_49
+  - first:
+      213: 21300100
+    second: Glow-portal-Contact-sheet (2)_50
+  - first:
+      213: 21300102
+    second: Glow-portal-Contact-sheet (2)_51
+  - first:
+      213: 21300104
+    second: Glow-portal-Contact-sheet (2)_52
+  - first:
+      213: 21300106
+    second: Glow-portal-Contact-sheet (2)_53
+  - first:
+      213: 21300108
+    second: Glow-portal-Contact-sheet (2)_54
+  - first:
+      213: 21300110
+    second: Glow-portal-Contact-sheet (2)_55
+  - first:
+      213: 21300112
+    second: Glow-portal-Contact-sheet (2)_56
+  - first:
+      213: 21300114
+    second: Glow-portal-Contact-sheet (2)_57
+  - first:
+      213: 21300116
+    second: Glow-portal-Contact-sheet (2)_58
+  - first:
+      213: 21300118
+    second: Glow-portal-Contact-sheet (2)_59
+  - first:
+      213: 21300120
+    second: Glow-portal-Contact-sheet (2)_60
+  - first:
+      213: 21300122
+    second: Glow-portal-Contact-sheet (2)_61
+  - first:
+      213: 21300124
+    second: Glow-portal-Contact-sheet (2)_62
+  - first:
+      213: 21300126
+    second: Glow-portal-Contact-sheet (2)_63
+  - first:
+      213: 21300128
+    second: Glow-portal-Contact-sheet (2)_64
+  - first:
+      213: 21300130
+    second: Glow-portal-Contact-sheet (2)_65
+  - first:
+      213: 21300132
+    second: Glow-portal-Contact-sheet (2)_66
+  - first:
+      213: 21300134
+    second: Glow-portal-Contact-sheet (2)_67
+  - first:
+      213: 21300136
+    second: Glow-portal-Contact-sheet (2)_68
+  - first:
+      213: 21300138
+    second: Glow-portal-Contact-sheet (2)_69
+  - first:
+      213: 21300140
+    second: Glow-portal-Contact-sheet (2)_70
+  - first:
+      213: 21300142
+    second: Glow-portal-Contact-sheet (2)_71
+  - first:
+      213: 21300144
+    second: Glow-portal-Contact-sheet (2)_72
+  - first:
+      213: 21300146
+    second: Glow-portal-Contact-sheet (2)_73
+  - first:
+      213: 21300148
+    second: Glow-portal-Contact-sheet (2)_74
+  - first:
+      213: 21300150
+    second: Glow-portal-Contact-sheet (2)_75
+  - first:
+      213: 21300152
+    second: Glow-portal-Contact-sheet (2)_76
+  - first:
+      213: 21300154
+    second: Glow-portal-Contact-sheet (2)_77
+  - first:
+      213: 21300156
+    second: Glow-portal-Contact-sheet (2)_78
+  - first:
+      213: 21300158
+    second: Glow-portal-Contact-sheet (2)_79
+  - first:
+      213: 21300160
+    second: Glow-portal-Contact-sheet (2)_80
+  - first:
+      213: 21300162
+    second: Glow-portal-Contact-sheet (2)_81
+  - first:
+      213: 21300164
+    second: Glow-portal-Contact-sheet (2)_82
+  - first:
+      213: 21300166
+    second: Glow-portal-Contact-sheet (2)_83
+  - first:
+      213: -3317253435431291923
+    second: Glow-portal-Contact-sheet (2)_36
+  - first:
+      213: 3223362070276371825
+    second: Glow-portal-Contact-sheet (2)_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 454.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 454.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 454.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 454.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 454.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 454.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 454.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_8
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 454.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 341.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 341.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 341.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 341.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_14
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 341.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 341.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_16
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 341.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_17
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 341.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 228.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 228.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 228.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 228.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_23
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 228.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_24
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 228.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_25
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 228.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_26
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 228.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 115.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 115.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 115.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 115.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_32
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 115.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_33
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 115.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_34
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 115.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_35
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 115.4
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.4000015
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de37c27739fb6f1d0800000000000000
+      internalID: -3317253435431291923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2.4000015
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1757a4d89beabbc20800000000000000
+      internalID: 3223362070276371825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_38
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2.4000015
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_39
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2.4000015
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_40
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2.4000015
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_41
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2.4000015
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_42
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2.4000015
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_43
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2.4000015
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glow-portal-Contact-sheet (2)_44
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2.4000015
+        width: 113.77778
+        height: 113.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d2acd70e9bec2b148b909ae5803b4304
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
